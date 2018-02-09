@@ -1,3 +1,8 @@
+hangbanguanjia:
+  name: '航班管家'
+  icon: 'https://cdn1.133.cn/config/hbgj_app_icon.png'
+  iOS: 'https://itunes.apple.com/cn/app/id320479357?mt=8'
+  android: 'http://sj.qq.com/myapp/detail.htm?apkName=com.flightmanager.view'
 taobao:
   name: '手机淘宝'
   icon: 'https://img.alicdn.com/tfs/TB1jH9bX3mTBuNjy1XbXXaMrVXa-270-271.png'
